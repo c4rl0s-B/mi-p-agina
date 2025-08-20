@@ -1,5 +1,5 @@
 .arriva{
-    background-color: aqua;
+    background-color: rgb(1, 168, 168);
     display: flex;
 }
 .h3-1{
@@ -14,7 +14,6 @@
 .img-de-mi{
     margin-top: 20px;
     display: flex;
-    justify-content: space-around;
 }
 .imagenes{
     display: flex;
@@ -26,9 +25,12 @@
     border-radius: 20px;
     width: 70%;
     height: 200px;
-    margin-top: 30px;
+    margin-top: 50px;
     margin-left: 30px;
    
+}
+.divflex{
+    display: flex;
 }
 .p{
     display: flex;
@@ -41,9 +43,11 @@
     background-clip: content-box;
 }
 .mas-de-mi-2{
+    margin-left: 20px;
     background-color: rgba(2, 141, 111, 0.459);
     border-radius: 20px;
     width: 70%;
     height: 200px;
-    margin-top: 250px;
+    margin-top: 50px;
+    flex-direction: column;
 }
