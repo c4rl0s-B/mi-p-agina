@@ -3,7 +3,7 @@
     display: flex;
 }
 .h3-1{
-    margin-left: 1000px;
+    margin-left: 900px;
 }
 .img{
     height: 400px;
@@ -21,7 +21,7 @@
     width: 30%;
 }
 .mas-de-mi{
-    background-color: aquamarine;
+    background-color:rgba(8, 145, 115, 0.459);
     display: flex;
     border-radius: 20px;
     width: 70%;
@@ -35,13 +35,13 @@
     flex-direction: column;
 }
 .fondo{
-    background-color: lightblue;
+    background-color: rgb(30, 70, 83);
     padding: 20px;
     border: 2px solid black;
     background-clip: content-box;
 }
 .mas-de-mi-2{
-    background-color: aquamarine;
+    background-color: rgba(2, 141, 111, 0.459);
     border-radius: 20px;
     width: 70%;
     height: 200px;
